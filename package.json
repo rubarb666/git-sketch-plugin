@@ -45,7 +45,7 @@
   "dependencies": {
     "eslint-config-sketch": "^0.2.2",
     "eslint-config-standard-preact": "^1.0.1",
-    "eslint-plugin-react": "^6.10.3",
+    "eslint-plugin-react": "^7.16.0",
     "preact": "^7.1.0",
     "sketch-module-fs": "^0.1.2",
     "sketch-module-google-analytics": "^0.1.3",
