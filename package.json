@@ -40,7 +40,7 @@
     "eslint-plugin-node": "4.2.2",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
-    "skpm": "^0.9.7"
+    "skpm": "^1.0.0"
   },
   "dependencies": {
     "eslint-config-sketch": "^0.2.2",
